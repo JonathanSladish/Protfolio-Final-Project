@@ -1,4 +1,4 @@
-package com.tts.Protfolio;
+package com.tts.Portfolio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
